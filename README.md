@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on projects on Machine Learning and Web Development
 - 📫 How to reach me 
-     (☞ﾟヮﾟ)☞ Linkedin - https://www.linkedin.com/in/mohammad-affan-798560183/
+     (☞ﾟヮﾟ)☞ Linkedin - https://www.linkedin.com/in/mohammadaffan1/
