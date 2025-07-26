@@ -1,5 +1,8 @@
 ### 👋 Hi there, I'm Mohammad Affan — aka AffanCodes
 
+![Coding Guy](https://media.giphy.com/media/3o7TKsQ5Xx5mG3zcqE/giphy.gif)
+
+
 I'm a Data Engineer who loves building reliable and scalable data systems. I work with PySpark, Azure, and big data pipelines, and I'm always exploring how AI can be applied to real-world problems.
 ---
 ### 🚀 What I Do
