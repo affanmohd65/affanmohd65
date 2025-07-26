@@ -34,8 +34,50 @@ I'm a Data Engineer who loves building reliable and scalable data systems. I wor
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🛠️ Languages and Tools:
-<p align="left"> <a href="https://www.python.org" target="_blank" title="Python"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/> </a> <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40" alt="PySpark"/> </a> <a href="https://pandas.pydata.org/" target="_blank" title="Pandas"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/> </a> <a href="https://numpy.org/" target="_blank" title="NumPy"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/> </a> <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/> </a> <a href="https://www.databricks.com/" target="_blank" title="Databricks"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Databricks_Logo.png" width="40" height="40" alt="Databricks"/> </a> <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" title="Azure Data Factory"> <img src="https://learn.microsoft.com/en-us/azure/architecture/icons/media/azure-data-factory.svg" width="40" height="40" alt="Azure Data Factory"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" alt="FastAPI"/> </a> <a href="https://pytorch.org/" target="_blank" title="PyTorch"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/> </a> </p>
+## 🚀 Tool and Technologies
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank" title="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40" alt="PySpark"/>
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" title="NumPy">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
+    <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" alt="Matplotlib"/>
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
+    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="30" alt="Seaborn"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
+  </a>
+  <a href="https://snowflake.com/" target="_blank" title="Snowflake">
+    <img src="https://seeklogo.com/images/S/snowflake-logo-BF4F3DE7FC-seeklogo.com.png" width="40" height="40" alt="Snowflake"/>
+  </a>
+  <a href="https://colab.research.google.com/" target="_blank" title="Google Colab">
+    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="Google Colab"/>
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" alt="FastAPI"/>
+  </a>
+  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
+  </a>
+</p>
+
 
 ### 🤝 Let’s Connect
 
