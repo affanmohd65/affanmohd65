@@ -38,8 +38,7 @@ I'm a Data Engineer who loves building reliable and scalable data systems. I wor
 
 ### 🤝 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-affan)  
-- ✉️ Email: yourname@example.com  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-affan1)  
 - 🌱 Open to collaboration on data or AI projects!
 
 ---
