@@ -61,9 +61,6 @@ I'm a Data Engineer who loves building reliable and scalable data systems. I wor
   <a href="https://www.mysql.com/" target="_blank" title="MySQL">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
   </a>
-  <a href="https://snowflake.com/" target="_blank" title="Snowflake">
-    <img src="https://seeklogo.com/images/S/snowflake-logo-BF4F3DE7FC-seeklogo.com.png" width="40" height="40" alt="Snowflake"/>
-  </a>
   <a href="https://colab.research.google.com/" target="_blank" title="Google Colab">
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="Google Colab"/>
   </a>
