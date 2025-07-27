@@ -1,6 +1,4 @@
-### 👋 Hi there, I'm Mohammad Affan
-
-I'm a Data Engineer who loves building reliable and scalable data systems. I work with PySpark, Azure, and big data pipelines, and I'm always exploring how AI can be applied to real-world problems.
+Data Engineer who loves building reliable and scalable data systems. I work with PySpark, Azure, and big data pipelines, and I'm always exploring how AI can be applied to real-world problems.
 ---
 ### 🚀 What I Do
 
