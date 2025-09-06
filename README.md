@@ -19,7 +19,8 @@ Data Engineer who loves building reliable and scalable data systems. I work with
 ---
 ### 📈 Currently Learning
 
-- 🔹 Advanced PySpark for production
+- 🔹 Machine Learning for Model generation
+- 🔹 NLP and LLM for future growth
 - 🔹 MLOps: CI/CD for ML models  
 - 🔹 Azure AI + GenAI stack (OpenAI + Azure services)
 ---
