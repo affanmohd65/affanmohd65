@@ -4,18 +4,14 @@ Data Engineer who loves to work with PySpark, Azure, and big data pipelines, and
 
 - 💾 **Data Engineering**: ETL/ELT pipelines using PySpark, Azure Data Factory, Databricks  
 - ☁️ **Cloud Platforms**: Azure (Data Lake, Synapse, Blob, ADF)  
-- 🧠 **ML & AI Projects**: Currently exploring Generative AI and LLMs  
-- 🔧 **Tools**: Python, SQL, Pandas, Scikit-learn, Git, Docker  
+- 🧠 **ML & AI Projects**: LLM, Langchain, RAG 
+- 🔧 **Tools**: Python, SQL, Pandas, Scikit-learn, Git, Docker, StreamLit
 ---
 ### 📂 Featured Projects
 
 - 🔍 **Solar Forecasting with LSTM + Streamlit**  
   Time-series energy prediction using deep learning.  
   *Tech:* Python, LSTM, Streamlit, Matplotlib
-
-- 💬 **AI Chatbot with Flask + React**  
-  Custom GPT-based bot for website support.  
-  *Tech:* OpenAI API, Flask, ReactJS
 ---
 ### 📈 Currently Learning
 
