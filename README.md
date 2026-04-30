@@ -77,7 +77,10 @@ Data Engineer who loves to work with PySpark, Azure, and big data pipelines, and
 
 ### 🤝 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-affan1)  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-affan1)
+- 🌐 [HackerRank](https://www.hackerrank.com/profile/affanmohd65)
+- 🌐 [LeetCode](https://leetcode.com/u/affanmohd65/)
+    
 - 🌱 Open to collaboration on data or AI projects!
 
 ---
