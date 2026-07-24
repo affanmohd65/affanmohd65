@@ -9,9 +9,9 @@ Data Engineer who loves to work with PySpark, Azure, and big data pipelines, and
 ---
 ### 📂 Featured Projects
 
-- 🔍 **Solar Forecasting | LSTM + Streamlit**  
-  Time-series energy prediction using deep learning.  
-  *Tech:* Python, LSTM, Streamlit, Matplotlib
+- 🔍 **Stock Price Analysis | Python, SciPy, Statsmodel, ARIMA, SARIMA, Prophet**  
+  Time-series Stock Price prediction using deep learning.  
+  *Tech:* Python, SciPy, Statsmodel, ARIMA, SARIMA, Prophet
 
   - 🔍 **MediBot | AI Medical Assistant | Python, FastAPI, LangChain, Pinecone, Groq, LLM**  
     AI Chatbot using Python, FastAPI, LangChain, Pinecone, Groq, LLM.  
