@@ -1,88 +1,82 @@
-Data Engineer who loves to work with PySpark, Azure, and big data pipelines, and I'm always exploring how AI can be applied to real-world problems.
----
-### 🚀 What I Do
+# Hi there, I'm Mohammad Affan 👋
 
-- 💾 **Data Engineering**: ETL/ELT pipelines using PySpark, Azure Data Factory, Databricks, FastAPI
-- ☁️ **Cloud Platforms**: Azure (Data Lake, Synapse, Blob, ADF)  
-- 🧠 **ML & AI Projects**: LLM, Langchain, RAG, Pinecone
-- 🔧 **Tools**: Python, SQL, Pandas, Scikit-learn, Git, Docker, StreamLit
----
-### 📂 Featured Projects
+Data Scientist passionate about building intelligent, data-driven solutions using Machine Learning, Predictive Analytics, Time-Series Forecasting, and Generative AI. I enjoy transforming raw data into actionable insights and developing production-ready AI applications that solve real-world business problems.
 
-- 🔍 **Stock Price Analysis | Python, SciPy, Statsmodel, ARIMA, SARIMA, Prophet**  
-  Time-series Stock Price prediction using deep learning.  
-  *Tech:* Python, SciPy, Statsmodel, ARIMA, SARIMA, Prophet
-
-  - 🔍 **MediBot | AI Medical Assistant | Python, FastAPI, LangChain, Pinecone, Groq, LLM**  
-    AI Chatbot using Python, FastAPI, LangChain, Pinecone, Groq, LLM.  
-  *Tech:* Python, FastAPI, LangChain, Pinecone, Groq, LLM
 ---
-### 📈 Currently Learning
 
-- 🔹 Machine Learning for Model generation
-- 🔹 NLP and LLM for future growth
-- 🔹 MLOps: CI/CD for ML models  
-- 🔹 Azure AI + GenAI stack (OpenAI + Azure services)
+## 🚀 What I Do
+
+- 📊 **Data Science & Analytics:** Predictive Analytics, Machine Learning, Statistical Modeling, Time-Series Forecasting
+- 🤖 **AI & Generative AI:** LLMs, RAG, Prompt Engineering, LangChain, Hugging Face, Pinecone
+- ☁️ **Data Engineering:** Python, PySpark, Azure Databricks, SQL, ETL/ELT Pipelines
+- 📈 **Visualization:** Power BI, Matplotlib, Seaborn, Streamlit
+
 ---
-### 🛠️ Tech Stack
+
+## 📂 Featured Projects
+
+### 🏥 Clinical Decision Support Assistant
+Built a RAG-powered clinical AI assistant for semantic medical knowledge retrieval using LLMs and vector databases.
+
+**Tech:** Python, FastAPI, LangChain, Pinecone, Hugging Face, Llama, RAG
+
+### 📈 Stock Price Forecasting
+Developed statistical and machine learning models to forecast stock prices using advanced time-series techniques.
+
+**Tech:** Python, Pandas, Statsmodels, ARIMA, SARIMA, Prophet, Scikit-learn
+
+---
+
+## 📈 Currently Learning
+
+- 🔹 Advanced Machine Learning & Explainable AI (SHAP, LIME)
+- 🔹 Agentic AI & Multi-Agent Systems
+- 🔹 MLOps (MLflow, Model Deployment, CI/CD)
+- 🔹 Deep Learning & LLM Fine-Tuning
+
+---
+
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=flat&logo=apachespark&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-## 🚀 Tool and Technologies
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" title="Python">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-  </a>
-  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" title="PySpark">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40" height="40" alt="PySpark"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" title="Scikit-Learn">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" title="Matplotlib">
-    <img src="https://matplotlib.org/_static/images/logo2.svg" width="40" height="40" alt="Matplotlib"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" title="Seaborn">
-    <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="30" alt="Seaborn"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" title="MySQL">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  </a>
-  <a href="https://colab.research.google.com/" target="_blank" title="Google Colab">
-    <img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="40" height="40" alt="Google Colab"/>
-  </a>
-  <a href="https://powerbi.microsoft.com/" target="_blank" title="Power BI">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" alt="Power BI"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" title="FastAPI">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40" height="40" alt="FastAPI"/>
-  </a>
-  <a href="https://pytorch.org/" target="_blank" title="PyTorch">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch"/>
-  </a>
-</p>
-
-
-### 🤝 Let’s Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/mohammad-affan1)
-- 🌐 [HackerRank](https://www.hackerrank.com/profile/affanmohd65)
-- 🌐 [LeetCode](https://leetcode.com/u/affanmohd65/)
-    
-- 🌱 Open to collaboration on data or AI projects!
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0A66C2?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121D33?style=flat)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=flat)
+![PowerBI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+## 🚀 Tools & Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/mohammadaffan1
+- 💻 GitHub: https://github.com/affanmohd65
+- 🏆 LeetCode: https://leetcode.com/u/affanmohd65
+- 💡 HackerRank: https://www.hackerrank.com/profile/affanmohd65
+
+🌍 Open to Data Scientist, Machine Learning Engineer, and Applied AI opportunities worldwide.
+
+---
+
+> *"Turning data into intelligent decisions through Machine Learning, Statistics, and AI."*
