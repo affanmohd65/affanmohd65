@@ -1,5 +1,5 @@
 # Hi there, I'm Mohammad Affan 👋
-AI/ML Engineer with 2+ years of experience building Python-based AI applications, production APIs, and machine learning models using FastAPI, PostgreSQL, AWS, PySpark, Databricks, and MLflow. I specialize in LLM fine-tuning, RAG, NLP, and model serving — delivering measurable impact like 95% forecast accuracy, 35% LLM accuracy improvement, and 81% lower compute time.
+Data Scientist with 2+ years of experience building Python-based AI applications, production APIs, and machine learning models using FastAPI, PostgreSQL, AWS, PySpark, Databricks, and MLflow. I specialize in LLM fine-tuning, RAG, NLP, and model serving — delivering measurable impact like 95% forecast accuracy, 35% LLM accuracy improvement, and 81% lower compute time.
 
 ---
 
@@ -68,6 +68,7 @@ Built document processing and knowledge retrieval workflows — ingestion, chunk
 - 💻 GitHub: https://github.com/affanmohd65
 - 🏆 LeetCode: https://leetcode.com/u/affanmohd65
 - 💡 HackerRank: https://www.hackerrank.com/profile/affanmohd65
+- 🌐 Medium : https://medium.com/@affanmohd65
 
 🌍 Open to AI/ML Engineer and Applied AI opportunities worldwide.
 
